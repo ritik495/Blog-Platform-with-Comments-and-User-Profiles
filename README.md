@@ -1,1 +1,1 @@
-# Blog-Platform-with-Comments-and-User-Profiles
+# Blog-Platform-with-Comments-and-User-Profiles<img width="1536" height="1024" alt="e6dec715-5e9c-42ac-a67f-2ca41e7be7ed" src="https://github.com/user-attachments/assets/d2d3d5da-4936-4467-9d91-bae39848d3f5" />
